@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% include 'layouts/b5/head.njk' %}
+
+  <body>
+    {% include 'layouts/b5/header.njk' %}
+    <main>
+      <div class="row">
+        <div class="col">
+          <div class="container mt-2">
+            {{ content | safe }}
+          </div>
+        </div>
+      </div>
+    </main>
+    {% include 'layouts/b5/footer.njk' %}
+  </body>
+</html>

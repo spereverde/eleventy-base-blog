@@ -1,19 +1,19 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "spereverde blog",
+  "url": "https://condescending-leavitt-128afa.netlify.app/",
+  "description": "spereverde blog",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "spereverde blog",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://condescending-leavitt-128afa.netlify.app/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://condescending-leavitt-128afa.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
+    "name": "Kim Paulissen",
     "email": "youremailaddress@example.com",
     "url": "https://example.com/about-me/"
   }
