@@ -1,7 +1,8 @@
 {
-  "title": "spereverde blog",
-  "url": "https://condescending-leavitt-128afa.netlify.app/",
-  "description": "spereverde blog",
+  "title": "Your Blog Name",
+  "url": "https://example.com/",
+  "language": "en",
+  "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
     "subtitle": "spereverde blog",
     "filename": "feed.xml",
